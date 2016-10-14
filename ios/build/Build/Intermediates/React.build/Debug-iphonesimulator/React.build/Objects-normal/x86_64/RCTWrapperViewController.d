@@ -1,0 +1,18 @@
+dependencies: \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Views/RCTWrapperViewController.m \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/dongfang/reactN/demo4/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24959c1d0b0991e7d0d42ab7bd7e7d68b2c3e679">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-44a96b26bd90cc4a524cf3b24c85f68ba90c923c.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-572e3ae9af3764bedc35fc990d7394bdc9d3c3d5.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-f7f3caa80bb1eb2769bbdb6da85a520aecd58bc3.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-8d1ef4e6070357527574fa5810df82bc1840792b.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-1327ffdf9fb40ae6569045d914f561974b374d0d.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-55c00d44e76b09fac079de425651dda6d646cd4f.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-f476f8fa7ef116491ec7032281035d344563d9e5.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-96b8575a3551bccce65023578742af6b2157e305.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-ed904f86437afa35ff3e2378b1239dcd76cb3fec.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-15a61b4fd4fee0fa939a7054e20987d37a9f0f9e.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-348a1e020a16da552c4d44a2759bd2dd55ea4f30.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-939dfeffbd8e667b517c500786d22140af25cc91.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-79adde9eab9997afee70de01494a8e4c95207d01.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-a528a3bc887fb483e8b66e296ed4a9fb7b9adfac.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-83665ced02478c513a375df1381f995a689ebdb5.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-5a9f06b1ba81525c45f4deb252cdaa8eaed5be44.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="085d4b604a91b790ed60ccf219b0c30c9db7d9ea">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-f88ba9a933e79e9b27fdf9d076d86988450dbcd1.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-147713819f75f0ba82b023e063e591975c108262.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-fa54d57c445bf01d44ba4d2ae693dde78d214dfd.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-50baf9c31ae5176b02e0dbc1da354f250e879aff.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-e818ea1c97035249361751686b35aa5a80e152ed.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/reactN/demo4/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/classes-8484c560d9338ff82faa14922d0b3d131e85242f.jar" />
+    </item>
+    <item
+        jar="/Users/dongfang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/dongfang/reactN/demo4/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-26a48446b65cb524005617da88e4f4e75b63457c.jar" />
+    </item>
+
+</items>
